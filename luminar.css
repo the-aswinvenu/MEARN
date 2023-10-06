@@ -1,0 +1,40 @@
+a {
+    font-family: 'Mulish', sans-serif;;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 60px;
+}
+
+.img1 {
+    height: 500px;
+}
+
+.cp1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: medium;
+}
+
+.btnCl1 {
+    background-color: #5e068a;
+    border: none;
+    padding: 15px;
+    border-radius: 50px;
+    max-width: 600px;
+}
+
+.inForm1 {
+    border: none;
+}
+
+.btn1 {
+    background-color: #5e068a;
+    border: none;
+    font-family: 'Mulish', sans-serif;
+}
+
+.clsbtn {
+    margin-left: 475px;
+}
